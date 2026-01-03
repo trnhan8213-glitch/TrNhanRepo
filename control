@@ -1,6 +1,6 @@
-Package: com.trnhan.tweak
+Package: com.trnhan.make.vntweak
 Name: MyTweak
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Unlock FPS for 6s Plus
-Author: TrNhan
+Author: TrNhanRepo
