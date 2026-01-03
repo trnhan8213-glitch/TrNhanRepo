@@ -1,7 +1,6 @@
-Package: com.yourname.mytweak
-Name: MyTweakFPS
-Depends: mobilesubstrate
-Version: 0.0.1
+Package: com.trnhan.tweak
+Name: MyTweak
+Version: 1.0
 Architecture: iphoneos-arm
-Description: Unlock High FPS for 6s Plus
-Author: YourName
+Description: Unlock FPS for 6s Plus
+Author: TrNhan
